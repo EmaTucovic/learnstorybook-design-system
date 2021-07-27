@@ -3,6 +3,7 @@
 1. Prettier setup: install prettier localy as dev dependency; in VScode add Prettier addon and Enable the Format on Save editor.formatOnSave
 2. Install storybook and run it
 3. Add global styles (CSS reset): for app (if we use styled component) we would plase this comp in the top-level app layout; in SB we need to add it all stories - this we do in the preview config file .storybook/preview.js using decorator.
+4. to add fonts in SB, add it as a link tag in .storybook/preview-head.html
 
 ## Original README
 
